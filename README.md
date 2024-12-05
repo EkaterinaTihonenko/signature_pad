@@ -1,1 +1,1 @@
-# signature_pad
+![Image alt](https://github.com/EkaterinaTihonenko/signature_pad/blob/main/img/screen.PNG)
